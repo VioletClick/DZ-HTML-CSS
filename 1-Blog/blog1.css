@@ -1,0 +1,94 @@
+body {
+    background: linear-gradient(#374151, #111827);
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+span {
+    background-color: #4B5563;
+    font-family: 'Source Sans Pro', monospace;
+    font-weight: 600;
+    line-height: 22.63px;
+    border-radius: 3px;
+    padding: 6px 12px 6px 12px;
+    margin: 0 11px 0 0;
+}
+.logo {
+    font-size: 18px;
+    line-height: 21.09px;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+input {
+    background-color: #1F293799;
+    border: none;
+    border-radius: 100px;
+    width: 224px;
+    height: 40px;
+}
+ul, input::placeholder {
+    font-size: 16px;
+    line-height: 18.75px;
+}
+a, article, input { 
+    color: #FFFFFF;
+}
+.dateinf {
+    line-height: 16.41px;
+    margin: 80px 630px 14px 630px;
+}
+h1, p, a, input, footer {
+    font-weight: 400;
+}
+h1 {
+    font-size: 24px;
+    line-height: 38px;
+    margin: 0 458px 0 458px;
+}
+.devname, .dev, .footertext {
+    line-height: 28px;
+}
+.devname, .text2, .footertext {
+    font-size: 16px;
+}
+.dateinf, .dev {
+    font-size: 14px;
+}
+.text1 {
+    font-size: 20px;
+    line-height: 32px;
+    margin: 69px 367px 0 365px;
+}
+.text2 {
+    line-height: 30px;
+    padding: 30px 0 0 0;
+    margin: 0 366px 0 366px;
+}
+input::placeholder, .dateinf, .dev, .footertext {
+    color: #ffffffad;
+}
+header {
+    margin: 81px 0 0 180px;
+}
+nav ul {
+    padding: 1px 0 0 0;
+}
+.devphoto img {
+    padding: 0 16px 0 0;
+}
+.devphoto {
+    margin: 30px 586px 28px 640px;
+}
+.dev, .devname {
+    padding: 4.5px 0 0 0;
+    margin: 0;
+}
+.mainimg {
+    padding: 3px 272px 0 272px;
+}
+footer {
+    margin: 103px 606px 77px 608px;
+}

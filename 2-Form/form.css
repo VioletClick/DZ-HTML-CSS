@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(to right, #FFA5A5, #FFFFFF00);
+}
+main {
+    background-color: #FFFEFE;
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    color: #333333;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 49.03px;
+}
+p,label {
+    color: #666666;
+}
+p,button {
+    font-size: 18px;
+    line-height: 24.51px;
+}
+a {
+    color: #089FE0;
+}
+label {
+    font-size: 14px;
+    line-height: 19.07px;
+}
+input {
+    background-color: #F5F5F5; /*применяется ко всем input, т. к. еще не коснулись классов*/
+    color: #333333;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+}
+input::placeholder {
+    color: #999999;
+    font-style: italic;
+}
+button {
+    background-color: #089FE0;
+    color: #FFFEFE;
+    border: none;
+}
+p, label, button, input::placeholder
+{
+    font-weight: 400;
+}

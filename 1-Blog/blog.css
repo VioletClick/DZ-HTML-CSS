@@ -1,0 +1,111 @@
+body {
+    background: linear-gradient(#374151, #111827);
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+.logo {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.09px;
+    padding: 8px 77px 6px 0 ;
+}
+header {
+    margin: 72px 180px 73px 180px;
+}
+span {
+    font-family: "Source Code Pro", sans-serif;
+    background-color: #4B5563;
+    font-weight: 600;
+    line-height: 22.63px;
+    padding: 6px 12px 6px 12px;
+    margin: 0 11px 0 0;
+}
+a {
+    text-decoration: none;
+}
+nav a {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    padding: 9px 39px 7px 0;
+}
+nav ul {
+    list-style: none;
+}
+input {
+    color: #FFFFFF;
+    background-color: #1F293799;
+    border: none; 
+}
+input::placeholder {
+    color: #ffffffa6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+}
+.search {
+    background-color: #1F293799;
+    width: 224px;
+    height: 40px;
+    border-radius: 100px;
+    margin: 1px 0 4px 310px;
+}
+.search img {
+    padding: 14px 5px 12px 18px;
+}
+.inf {
+    color: #ffffffa6;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    padding: 0 630px 14px 630px;
+}
+article {
+    color: #FFFFFF;
+}
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    margin: 0 457px 30px 458px;
+}
+.devinfo {
+    margin: 0 586px 0 640px;
+}
+.devname {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    padding: 0 0 0 16px;
+}
+.dev {
+    color: #ffffffa6;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    padding: 0 0 0 16px;
+}
+.mainimg {
+    margin: 28px 272px 69px 272px;
+}
+.text1 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0 365px 20px 367px;
+}
+.text2 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0 366px 20px 366px;
+}
+footer p {
+    color: #ffffffa6;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 83px 606px 77px 608px;
+}
